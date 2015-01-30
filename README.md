@@ -11,7 +11,7 @@ V3Component
 ###  4.  Left Margin
 ###  5.  Place Holder Color
 
-# Features for V3TextField
+# Features for V3Button
 ###  1.  BorderWidth
 ###  2.  BorderColor
 ###  3.  CornerRadius
