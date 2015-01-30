@@ -6,16 +6,16 @@ V3Component
 ### V3Button(Button with rich set of properties directly available in interface builder)
 
 ## Features for V3TextField
-###  1.  BorderWidth
-###  2.  BorderColor
-###  3.  CornerRadius
-###  4.  Left Margin
-###  5.  Place Holder Color
+#####  1.  BorderWidth
+#####  2.  BorderColor
+#####  3.  CornerRadius
+#####  4.  Left Margin
+#####  5.  Place Holder Color
 
 ## Features for V3Button
-###  1.  BorderWidth
-###  2.  BorderColor
-###  3.  CornerRadius
+#####  1.  BorderWidth
+#####  2.  BorderColor
+#####  3.  CornerRadius
 
 
 ##Normal Installation
