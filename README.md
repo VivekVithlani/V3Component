@@ -1,4 +1,4 @@
-![image](V3Signature.gif)
+![image](V3Component.gif)
 
 V3Component
 ===========
