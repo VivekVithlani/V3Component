@@ -11,11 +11,13 @@ V3Component
 ####  3.  CornerRadius
 ####  4.  Left Margin
 ####  5.  Place Holder Color
+![image](TextField Property Image.png)
 
 ## Features for V3Button
 ####  1.  BorderWidth
 ####  2.  BorderColor
 ####  3.  CornerRadius
+![image](Button Property Image.png)
 
 
 ##Normal Installation
