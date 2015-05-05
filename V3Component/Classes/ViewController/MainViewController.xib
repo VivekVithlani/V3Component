@@ -54,7 +54,7 @@
                             <real key="value" value="2"/>
                         </userDefinedRuntimeAttribute>
                         <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
-                            <real key="value" value="15"/>
+                            <real key="value" value="7"/>
                         </userDefinedRuntimeAttribute>
                         <userDefinedRuntimeAttribute type="number" keyPath="leftMargin">
                             <real key="value" value="10"/>
@@ -178,7 +178,7 @@
             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
             <nil key="simulatedTopBarMetrics"/>
             <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
-            <point key="canvasLocation" x="374" y="435"/>
+            <point key="canvasLocation" x="489" y="406"/>
         </view>
     </objects>
 </document>
